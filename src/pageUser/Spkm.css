@@ -1,0 +1,17 @@
+.MenuColumn1{
+  color: #f5d311  !important;
+  font-weight: 600;
+  font-size: 15px !important;
+}
+.MenuColumn{
+    color: #08c25e  !important;
+    font-weight: 600;
+    padding: 0px !important;
+}
+  .MenuColumn:hover{
+    color: #f5d311  !important;
+    font-weight: 600;
+  }
+  .nav-item.spkm{
+    border-bottom: solid 1px silver;
+  }
